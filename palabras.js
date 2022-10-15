@@ -1,0 +1,1 @@
+const words = ['Hola','Autobus', 'Lento','Alimentos','Delgado','Cubo','Hamburguesa'];
